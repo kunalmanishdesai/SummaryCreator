@@ -8,7 +8,7 @@ run using: python NLPProject.py <br><br>
 
 Output: <br><br>
 
-<img src = 'output.png'>
+![alt text](http:output.png)
 
 Use any url or default url:
 
