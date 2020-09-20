@@ -8,7 +8,7 @@ run using: python NLPProject.py <br><br>
 
 Output: <br><br>
 
-![alt text](http://Output.png)
+![alt text](https://github.com/kunalmanishdesai/SummaryCreator/blob/master/Output.png)
 
 Use any url or default url:
 
