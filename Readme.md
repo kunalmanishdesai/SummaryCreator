@@ -1,6 +1,6 @@
 Instructions for execution <br><br>
 
-Install beautifulsoup and lxml using :<br><br>
+Install beautifulsoup,nltk and lxml using :<br><br>
 
 pip install -r requirements.txt <br><br>
 
